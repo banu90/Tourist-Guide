@@ -1,0 +1,249 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.firstsection{
+    margin-left: 25%;
+    padding-top: 5%;
+    
+}
+h5{
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;  
+    font-weight: bold;
+    font-size :15px;
+    margin-left: 30%;
+    cursor:grab;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif; 
+    font-weight: bold;
+    font-size :25px;
+    margin-right:35%;
+    text-align: center;
+    
+}
+h6{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: small;
+    margin-right: 40%;
+}
+h6 span {
+    font-weight:bold;   
+}
+h6 :hover{
+    text-decoration: underline;
+    cursor:grab;    
+}
+.sec-1 h3{
+    font-family:Arial, Helvetica, sans-serif;   
+    font-size:large;
+}
+.sec-1 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sec-1 span{
+    font-weight:bold;
+    text-decoration: underline;
+    color:brown;
+}
+.sec-2 h3{
+    font-family:Arial, Helvetica, sans-serif;   
+    font-size:large;   
+}
+.sec-2 span{
+    font-weight:bold;
+    text-decoration: underline;
+    color:brown;
+}
+
+.sec-2 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sec-3 h3{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 50%;
+    font-size:large;
+}
+.sec-3 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+ul{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    padding-left: 40px;
+    line-height:2;
+}
+.sec-4 h3{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 50%;
+    font-size:large;
+}
+.sec-4 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-5 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-6 h4{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 50%;   
+}
+.sec-6 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-7 h3{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 50%;
+    font-size:large;
+}
+.sec-7 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-8 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-9 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-9 h3{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 50%;
+    font-size:large;
+}
+.sec-10 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-11 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-11 h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sec-11 h4{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sec-12 h4{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase; 
+    margin-right: 31%;
+    color:brown; 
+    line-height:2; 
+    cursor: grab;
+}
+.sec-12 h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sec-12 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-13 h6{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 30%;
+    padding-top: 5px;
+}
+.sec-13 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-13 h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sec-14 h3{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    text-decoration: underline;
+    color:brown;
+    cursor: grab;
+}   
+.sec-14 p{
+    line-height:2;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.sec-15 h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sec-16 .left{
+    font-weight: 50%;
+    
+}
+.right{
+    line-height:2;
+    margin-right: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    padding-right: 50px;
+}
+.right h3{
+    text-transform: uppercase;
+}
+.right h3:hover{
+    text-decoration: underline;
+    cursor: grab;
+}
+footer{
+    background-color: black;
+    color:whitesmoke;
+}
+.right p {
+    display: flex;
+
+}
+.sec-17 h4{
+    text-transform: uppercase;
+    padding-left: 25%;
+}
+.foot{
+    margin-left: 20%;
+    padding-top: 20px;
+}
+.foot p{
+    margin-left: 10%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-bottom: 20px;
+}
+.social-media {
+    margin-left: 80%;
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+ 
+}
+
+
+
+
+
+
+
+
